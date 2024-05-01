@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006479787055",
+    "project_id": "adwise-4812",
+    "storage_bucket": "adwise-4812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006479787055:android:04aee1745978dbc580b2da",
+        "android_client_info": {
+          "package_name": "com.example.kalki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q2PKFZWBCo3c783JQZkup7ee1FvNgWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
